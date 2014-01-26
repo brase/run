@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+    "settings": {
+        "python_interpreter": "C:\\Users\\basti_000\\code\\py\\run\\run\\Scripts\\python.exe"
+    }
+}

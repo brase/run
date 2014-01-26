@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tool",
+				"tools"
+			],
+			[
+				"re",
+				"release"
+			],
+			[
+				"File",
+				"FileUtils"
+			],
+			[
+				"Kunde",
+				"Kundennummer"
+			],
+			[
+				"cop",
+				"copy_mspec"
+			],
+			[
+				"req",
+				"require"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.py",
+			"settings":
+			{
+				"buffer_size": 149,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"dir",
+			"ls",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/basti_000/code/BfsInfo/Rakefile.rb",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 9b test/2014-01-23 Funktion absgrund.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 9b updates/2014-01-23 DB-Version BFSInfo.sql",
+		"/C/Users/basti_000/code/BfsInfo/src/Dta/.nuget/packages.config",
+		"/C/Users/basti_000/code/BfsInfo/src/Dta/Dta.Parser.Tests/packages.config",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 9b updates/2014-01-15 Neue Tabelle SqlpruefkriteriumMitarbeiter.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 8 test/2013-07-22 Pruefergebnisse mit Detaildaten.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 8 test/2013-07-31 Pruefergebnisse Rechnung fuer 8667.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 7 test/2013-01-28 SQLPruefKriterium fuer 5259.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 5 test/2012-11-22 Pruefkriterien Pruefergebnisse Status.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 9b updates/2014-01-20 Alle Reports.sql",
+		"/C/tmp/tmp/3.sql",
+		"/C/tmp/tmp/1.sql",
+		"/C/tmp/tmp/4.sql",
+		"/C/tmp/tmp/2.sql",
+		"/C/tmp/1.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/previouslyUsedScripts/Reports sprint 9b/Suche nach Klienten.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/previouslyUsedScripts/Reports sprint 9b/Verlauf Belegprüfung.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/previouslyUsedScripts/Reports sprint 9b/Sammelrechnungen einer Sendung.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/previouslyUsedScripts/Reports sprint 9b/QS Neueinreichungsprüfung.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/previouslyUsedScripts/Reports sprint 9b/Mandatsreferenz ermitteln.sql",
+		"/C/Users/basti_000/code/BfsInfo/.hg/hgignore",
+		"/C/Users/basti_000/code/BfsInfo/.hgignore",
+		"/C/Users/basti_000/Desktop/ssl.psk",
+		"/C/Users/basti_000/Desktop/ssl.crt",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 9b updates/2014-01-21 Rechte Reports.sql",
+		"/C/Users/basti_000/code/BfsInfo/.hg/hgrc",
+		"/C/Users/basti_000/code/BfsInfo/db/previouslyUsedScripts/Reports sprint 9b/Übersicht erfasste Texte.sql",
+		"/C/Users/basti_000/code/Ghost/.gitignore",
+		"/C/Users/basti_000/code/Ghost/config.js",
+		"/C/Users/basti_000/code/Ghost/config.example.js",
+		"/C/Users/basti_000/code/Ghost/server.js",
+		"/C/Users/basti_000/code/py/run/app.py",
+		"/C/Users/basti_000/AppData/Local/Temp/VSIXInstaller_111a793c-a01f-4d40-b666-82f9ae11dd54.log",
+		"/C/Users/basti_000/code/BfsInfo/db/previouslyUsedScripts/Reports sprint 9b/Abtretungserklärung.sql",
+		"//qnap/Download/pyload/020568gf37ms062/encounters-dredd_1080p.nfo",
+		"//qnap/Download/pyload/98d87284c324165d29dcda7491762a77/exq-elysium-1080p.nfo",
+		"/C/Users/basti_000/code/py/run/run/Lib/distutils/distutils.cfg",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 9b updates/2014-01-13 DbUpdate_1_0_5_2.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 9b updates/2014-01-13 Neue Tabelle KontaktDatei.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 9b updates/2014-01-15 Neue Spalte LfdId in Brieftemplate.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/previouslyUsedScripts/Reports sprint 9b/Analyse Auszahlungen.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/previouslyUsedScripts/Reports sprint 9b/Anstehende Verrechnungen.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/previouslyUsedScripts/Reports sprint 9b/Endabrechnung.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/previouslyUsedScripts/Reports sprint 9b/Endsortierung.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/previouslyUsedScripts/Reports sprint 9b/Fortschrittsanzeige Belegprüfung.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/previouslyUsedScripts/Reports sprint 9b/Liste offene Laufzettel Bahn BKK.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/previouslyUsedScripts/Reports sprint 9b/Mandatsreferenz anzeigen.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/previouslyUsedScripts/Reports sprint 9b/Ping-Pong Fälle.sql",
+		"/C/Users/basti_000/Desktop/test.xsd",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 9 updates/2013-09-22 ReportKundeWiederholteAbsetzungen.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 8 updates/Reports/ReportWiederholteAbsetzungen.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 8 updates/2013-07-31 Alle Reports.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 8 updates/2013-07-23 Reports Rechte.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 9 updates/2013-09-25 Rechte.sql",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 9 updates/2020-00-00 Rechte Bezeichnung und Admin.sql",
+		"/C/Users/basti_000/code/BfsInfo/Rakefile2.rb",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 9 updates/2013-08-24 Neue Tabelle BriefTemplate.sql",
+		"/C/Users/basti_000/code/spielwiese/esb/node1/packages.config",
+		"/C/Users/basti_000/code/brase.github.com/_config.yml",
+		"/C/Users/basti_000/code/BfsFinance/.hg/hgrc",
+		"/C/Users/basti_000/Downloads/bootstrap-3.0.3-dist/dist/css/bootstrap.css",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 9 updates/2013-09-14 Neue Tabelle Brief.sql",
+		"/C/tmp/rf-codes",
+		"/C/Users/basti_000/mercurial.ini",
+		"/C/Users/basti_000/code/spielwiese/esb/node1/app.csx",
+		"/C/Users/basti_000/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/basti_000/code/Parsley.js/bin/build.ps1",
+		"/C/Users/basti_000/code/Kapelle/src/kapelle/kapelle.csproj",
+		"/C/Users/basti_000/code/Kapelle/src/Kapelle.Configuration/Kapelle.Configuration.csproj",
+		"/C/Users/basti_000/code/Kapelle/src/Kapelle.Infrastructure/Kapelle.Infrastructure.csproj",
+		"/C/Users/basti_000/code/Kapelle/src/Kapelle.Infrastructure.TestHelper/Kapelle.Infrastructure.TestHelper.csproj",
+		"/C/Users/basti_000/code/Kapelle/src/Kapelle.Membership/Kapelle.CustomMembership.csproj",
+		"/C/Users/basti_000/code/Kapelle/src/Kapelle.Model/Kapelle.Model.csproj",
+		"/C/Users/basti_000/code/Kapelle/src/Kapelle.Model.Tests/Kapelle.Model.Tests.csproj",
+		"/C/Users/basti_000/code/Kapelle/src/Kapelle.Read/Kapelle.Read.csproj",
+		"/C/Users/basti_000/code/Kapelle/src/kapelle.sln",
+		"/C/Users/basti_000/AppData/Roaming/Litecoin/litecoin.conf",
+		"/C/Users/basti_000/code/BfsInfo/db/sprint 7 updates/2013-02-12 Neue Tabelle SicherheitseinbehaltTransfer.sql",
+		"/C/Users/basti_000/code/Kapelle/src/Kapelle.Bootstrapper/Kapelle.Bootstrapper.csproj",
+		"/C/Users/basti_000/code/BfsInfo/src/BfsInfo/BfsInfo.ReportProvider/bin/Debug/schema0.xsd",
+		"/C/Users/basti_000/code/BfsInfo/src/BfsInfo/BfsInfo.Application/Views/FiBuBelege/_FilterFiBuPartial.cshtml",
+		"/C/Users/basti_000/Desktop/conemu.xml",
+		"/C/Users/basti_000/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/Users/basti_000/code/spielwiese/eventstore-http/event.json",
+		"/C/tools/eventstore/config.json",
+		"/C/Users/basti_000/AppData/Local/Temp/vs.log"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\basti_000\\code\\BfsInfo"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"KundenmaskeReportWiederholteAbsetzungen",
+			"ReportProduktionArbeitsleistungBelegepruefung",
+			"Parameter3",
+			"Parameter2",
+			"Parameter1",
+			"Parameter2",
+			"Parameter1",
+			"Parameter2",
+			"Parameter1",
+			"Parameter2",
+			"Parameter1",
+			"nuget",
+			"\n",
+			"error",
+			"height"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "run.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
