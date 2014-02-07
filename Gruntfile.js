@@ -1,6 +1,36 @@
 module.exports = function(grunt) {
 	grunt.initConfig({
 		pkg: grunt.file.readJSON('package.json'),
+        copy:{
+          main: {
+              files:[{
+                      expand: true,
+                      src: ['bower_components/sass-bootstrap/lib/*.scss'],
+                      dest: 'src/webapp/static/sass/bootstrap',
+                      flatten: true
+                  },{
+                      expand: true,
+                      cwd: 'bower_components',
+                      src: ['sass-bootstrap/dist/js/bootstrap.js', 'jquery/jquery.js'],
+                      dest: 'src/webapp/static/js/assets/',
+                      flatten: true
+                  },{
+                  expand: true,
+                  src: ['bower_components/sass-bootstrap/dist/fonts/*'],
+                  dest: 'src/webapp/static/fonts/',
+                  flatten: true
+              }]
+          }
+        },
+        uglify:{
+            options:{
+                sourceMap: true
+            },
+            build:{
+                src: ['src/webapp/static/js/assets/*.js'],
+                dest: 'src/webapp/static/js/app.js'
+            }
+        },
 		sass: {
 			dist: {
 				files: [{
@@ -9,7 +39,14 @@ module.exports = function(grunt) {
 			        src: ['main.scss'],
 			        dest: 'src/webapp/frontend/static/css',
 			        ext: '.css'
-			      }]
+			      },
+                    {
+                    expand: true,
+			        cwd: 'src/webapp/static/sass',
+			        src: ['main.scss'],
+			        dest: 'src/webapp/static/css',
+			        ext: '.css'
+                    }]
 			}
 		},
 		watch: {
@@ -21,5 +58,7 @@ module.exports = function(grunt) {
 	});
 	grunt.loadNpmTasks('grunt-contrib-sass');
 	grunt.loadNpmTasks('grunt-contrib-watch');
-	grunt.registerTask('default',['sass']);	
+    grunt.loadNpmTasks('grunt-contrib-copy');
+    grunt.loadNpmTasks('grunt-contrib-uglify');
+	grunt.registerTask('default',['sass', 'copy', 'uglify']);
 }
