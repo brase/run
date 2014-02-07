@@ -35,13 +35,45 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "frontend/__init__.py",
+			"settings":
+			{
+				"buffer_size": 152,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/basti_000/code/BfsInfo/src/BfsInfo/BfsInfo.Configuration/NinjectBindings.cs",
+			"settings":
+			{
+				"buffer_size": 2488,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/basti_000/code/BfsInfo/deploy.cmd",
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Packages/SASS Build/SASS.sublime-build",
 	"command_palette":
 	{
-		"height": 219.0,
+		"height": 81.0,
 		"selected_items":
 		[
+			[
+				"jin",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
 			[
 				"insta",
 				"Package Control: Install Package"
@@ -55,15 +87,11 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
 				"packa",
 				"Package Control: Install Package"
 			]
 		],
-		"width": 416.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -86,12 +114,24 @@
 	},
 	"file_history":
 	[
+		"/C/Users/basti_000/code/py/run/src/webapp/frontend/static/sass/main.scss",
+		"/C/Users/basti_000/code/py/run/src/webapp/frontend/templates/layout.html",
+		"/C/Users/basti_000/code/py/run/src/webapp/frontend/__init__.py",
+		"/C/Users/basti_000/code/py/run/Gruntfile.js",
+		"/C/Users/basti_000/code/py/run/src/webapp/frontend/templates/home.html",
+		"/C/Users/basti_000/code/py/run/.gitignore",
+		"/C/Users/basti_000/code/py/run/src/webapp/frontend/static/css/main.css",
+		"/C/Users/basti_000/code/py/run/src/webapp/frontend/static/sass/_bootstrap.scss",
+		"/C/Users/basti_000/code/py/run/src/webapp/frontend/static/sass/bootstrap/_media.scss",
+		"/C/Users/basti_000/AppData/Local/Temp/dtemp-9a4aaf09406390-0.dop/bootstrap.scss",
+		"/C/Users/basti_000/code/py/run/src/webapp/frontend/static/sass/bootstrap/_theme.scss",
+		"/C/Users/basti_000/AppData/Local/Temp/dperm-4aec9e09485843-0.dop/bootstrap.js",
+		"/C/Users/basti_000/AppData/Local/Temp/dperm-9a4a5109423234-0.dop/bootstrap.scss",
+		"/C/Users/basti_000/AppData/Local/Temp/dtemp-a89a9809374359-0.dop/bootstrap.scss",
 		"/C/Users/basti_000/code/py/run/src/webapp/app.py",
 		"/C/Users/basti_000/code/py/run/src/webapp/Frontend/__init__.py",
 		"/C/Users/basti_000/code/py/run/package.json",
-		"/C/Users/basti_000/code/py/run/Gruntfile.js",
 		"/C/Users/basti_000/code/py/run/src/webapp/Frontend/static/sass/main.scss",
-		"/C/Users/basti_000/code/py/run/.gitignore",
 		"/C/Users/basti_000/code/py/run/src/webapp/Frontend/static/css/main.css",
 		"/C/Users/basti_000/Desktop/ESOL0256",
 		"/C/Users/basti_000/code/BfsInfo/Rakefile.rb",
@@ -240,8 +280,93 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "frontend/__init__.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/basti_000/code/BfsInfo/src/BfsInfo/BfsInfo.Configuration/NinjectBindings.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								330
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/basti_000/code/BfsInfo/deploy.cmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
