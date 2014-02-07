@@ -5,16 +5,16 @@ module.exports = function(grunt) {
 			dist: {
 				files: [{
 			        expand: true,
-			        cwd: 'src/webapp/Frontend/static/sass',
-			        src: ['main.scss'],
-			        dest: 'src/webapp/Frontend/static/css',
+			        cwd: 'src/webapp/static/sass',
+			        src: ['frontend.scss'],
+			        dest: 'src/webapp/static/css',
 			        ext: '.css'
 			      }]
 			}
 		},
 		watch: {
 			css: {
-				files: 'src/webapp/Frontend/static/sass/main.scss',
+				files: 'src/webapp/static/sass/*.scss',
 				tasks: ['sass']
 			}
 		}
