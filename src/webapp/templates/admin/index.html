@@ -1,15 +1,22 @@
 {% extends 'admin/master.html' %}
 {% block body %}
-<div class="editor">
-    <div class="edit_column">
-        <textarea>
+        <div ng-app="admin">
+            <div></div>
+            <div class="editor" ng-controller="MainCtlr">
+                <div class="edit_column">
+                    <textarea ng-model="test">
 
-        </textarea>
-    </div>
-    <div class="preview_column">
-        <textarea>
-
-        </textarea>
-    </div>
-</div>
+                    </textarea>
+                </div>
+                <div class="preview_column">
+                    <div>                        
+                        {{ '{{' }}test{{ '}}' }}                        
+                    </div>                    
+                </div>
+            </div>
+        </div>
+{% endblock %}
+{% block tail %}
+    {{ super() }}
+    <script src="{{ url_for('static', filename='js/app.js') }}" language="javascript"></script>
 {% endblock %}

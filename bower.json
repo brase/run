@@ -1,0 +1,24 @@
+{
+  "name": "run",
+  "version": "0.0.1",
+  "homepage": "https://github.com/brase/run",
+  "authors": [
+    "Sebastian Brandt <bastibrandt@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.12",
+    "sass-bootstrap": "~3.0.2",
+    "angular-bootstrap": "~0.10.0",
+    "angular-resource": "~1.2.12",
+    "angular-route": "~1.2.12"
+  }
+}

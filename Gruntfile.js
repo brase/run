@@ -11,7 +11,7 @@ module.exports = function(grunt) {
                   },{
                       expand: true,
                       cwd: 'bower_components',
-                      src: ['sass-bootstrap/dist/js/bootstrap.js', 'jquery/jquery.js'],
+                      src: ['sass-bootstrap/dist/js/bootstrap.js', 'jquery/jquery.js', 'angular/angular.js', 'angular-resource/angular-resource.js', 'angular-route/angular-route.js'],
                       dest: 'src/webapp/static/js/assets/',
                       flatten: true
                   },{
@@ -24,10 +24,11 @@ module.exports = function(grunt) {
         },
         uglify:{
             options:{
-                sourceMap: true
+                sourceMap: true,
+                mangle: false
             },
             build:{
-                src: ['src/webapp/static/js/assets/*.js'],
+                src: ['src/webapp/static/js/assets/angular.js', 'src/webapp/static/js/assets/angular-route.js', 'src/webapp/static/js/assets/angular-resource.js', 'src/webapp/static/js/assets/jquery.js', 'src/webapp/static/js/assets/bootstrap.js','src/webapp/static/js/assets/app.js' , 'src/webapp/static/js/assets/controllers/*.js'],
                 dest: 'src/webapp/static/js/app.js'
             }
         },
@@ -53,7 +54,11 @@ module.exports = function(grunt) {
 			css: {
 				files: 'src/webapp/frontend/static/sass/*.scss',
 				tasks: ['sass']
-			}
+			},
+      js:{
+        files: 'src/webapp/frontend/static/js/*.scss',
+        tasks: ['uglify']
+      }
 		}
 	});
 	grunt.loadNpmTasks('grunt-contrib-sass');

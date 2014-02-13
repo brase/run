@@ -35,30 +35,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "frontend/__init__.py",
-			"settings":
-			{
-				"buffer_size": 152,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/basti_000/code/BfsInfo/src/BfsInfo/BfsInfo.Configuration/NinjectBindings.cs",
-			"settings":
-			{
-				"buffer_size": 2488,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/basti_000/code/BfsInfo/deploy.cmd",
-			"settings":
-			{
-				"buffer_size": 95,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/SASS Build/SASS.sublime-build",
 	"command_palette":
@@ -114,10 +90,20 @@
 	},
 	"file_history":
 	[
-		"/C/Users/basti_000/code/py/run/src/webapp/frontend/static/sass/main.scss",
-		"/C/Users/basti_000/code/py/run/src/webapp/frontend/templates/layout.html",
+		"/C/Users/basti_000/code/py/run/src/webapp/run.sublime-project",
+		"/C/Users/basti_000/code/BfsInfo/src/BfsInfo/BfsInfo.Logic.Specs/BfsInfo.Logic.Specs.csproj.DotSettings",
 		"/C/Users/basti_000/code/py/run/src/webapp/frontend/__init__.py",
+		"/C/Users/basti_000/code/BfsInfo/src/BfsInfo/BfsInfo.Configuration/NinjectBindings.cs",
+		"/C/Users/basti_000/code/BfsInfo/deploy.cmd",
 		"/C/Users/basti_000/code/py/run/Gruntfile.js",
+		"/C/tmp/mongodb/README",
+		"/C/Users/basti_000/code/py/run/src/webapp/frontend/static/sass/frontend.scss",
+		"/C/Users/basti_000/code/py/run/src/webapp/frontend/static/css/jumbotron-narrow.css",
+		"/C/Users/basti_000/code/py/run/src/webapp/frontend/static/sass/main.scss",
+		"/C/Users/basti_000/code/py/run/src/webapp/static/js/app.map",
+		"/C/Users/basti_000/code/py/run/src/webapp/static/js/app.js",
+		"/C/Users/basti_000/code/py/run/bower_components/sass-bootstrap/.bower.json",
+		"/C/Users/basti_000/code/py/run/src/webapp/frontend/templates/layout.html",
 		"/C/Users/basti_000/code/py/run/src/webapp/frontend/templates/home.html",
 		"/C/Users/basti_000/code/py/run/.gitignore",
 		"/C/Users/basti_000/code/py/run/src/webapp/frontend/static/css/main.css",
@@ -137,7 +123,6 @@
 		"/C/Users/basti_000/code/BfsInfo/Rakefile.rb",
 		"/C/Users/basti_000/Documents/IISExpress/config/applicationhost.config",
 		"/C/Users/basti_000/code/Ghost/.gitignore",
-		"/C/Users/basti_000/code/py/run/src/webapp/run.sublime-project",
 		"/C/Users/basti_000/AppData/Roaming/Sublime Text 3/Packages/SublimePythonIDE/SublimePython.sublime-settings",
 		"/C/Users/basti_000/code/py/run/run/Scripts/activate.ps1",
 		"/C/Users/basti_000/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
@@ -280,93 +265,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "frontend/__init__.py",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 152,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								152,
-								152
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/basti_000/code/BfsInfo/src/BfsInfo/BfsInfo.Configuration/NinjectBindings.cs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2488,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								367,
-								330
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C#/C#.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/basti_000/code/BfsInfo/deploy.cmd",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 95,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								95,
-								95
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

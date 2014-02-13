@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92106f08-6c24-4e83-a861-ff360396ec4d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/webapp/static/js/assets/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/webapp/static/views/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/webapp/static/js/assets/controllers/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/webapp/static/js/app.js" afterPath="$PROJECT_DIR$/src/webapp/static/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/webapp/static/js/app.map" afterPath="$PROJECT_DIR$/src/webapp/static/js/app.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/webapp/templates/admin/index.html" afterPath="$PROJECT_DIR$/src/webapp/templates/admin/index.html" />
+    </list>
+    <ignored path="run.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/run$app.coverage" NAME="app Coverage Results" MODIFIED="1391810019552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/webapp" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="run" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/webapp/templates/admin/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="14" selection-start="439" selection-end="439" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="459">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/webapp/frontend/templates/layout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="26" selection-start="909" selection-end="909" vertical-scroll-proportion="-8.5" vertical-offset="204" max-vertical-offset="901">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="14" selection-start="1118" selection-end="1118" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ui-bootstrap.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/angular-bootstrap/ui-bootstrap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="88" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="58344">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/webapp/static/js/assets/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="7" selection-start="245" selection-end="245" vertical-scroll-proportion="0.22835821" vertical-offset="0" max-vertical-offset="670">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="angular-route.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/webapp/static/js/assets/angular-route.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="17" selection-start="563" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="15759">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/webapp/static/js/assets/controllers/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="7" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/webapp/static/views/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="8" selection-start="165" selection-end="165" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/webapp/app.py" />
+        <option value="$PROJECT_DIR$/src/webapp/frontend/templates/layout.html" />
+        <option value="$PROJECT_DIR$/src/webapp/frontend/static/sass/main.scss" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/webapp/static/js/assets/controllers/main.js" />
+        <option value="$PROJECT_DIR$/src/webapp/static/views/main.html" />
+        <option value="$PROJECT_DIR$/src/webapp/templates/admin/index.html" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/src/webapp/static/js/assets/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="run" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="run" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="run" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="run" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="run" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="run" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="run" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="run" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="run" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-route" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="run" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="run" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration default="false" name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/webapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="run" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/webapp/app.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="run" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="run" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="run" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="run" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="run" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="run" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="run" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.app" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92106f08-6c24-4e83-a861-ff360396ec4d" name="Default" comment="" />
+      <created>1391809725925</created>
+      <updated>1391809725925</updated>
+    </task>
+    <task id="LOCAL-00001" summary="External components resolved with bower">
+      <created>1391814937631</created>
+      <updated>1391814937631</updated>
+    </task>
+    <task id="LOCAL-00002" summary="External components resolved with bower&#10;&#10;">
+      <created>1391814972433</created>
+      <updated>1391814972433</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4043977" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33460802" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298279" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32239583" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18423855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298279" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298279" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298279" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="External components resolved with bower" />
+    <MESSAGE value="External components resolved with bower&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="External components resolved with bower&#10;&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/webapp/frontend/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="7" selection-start="35" selection-end="35" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webapp/frontend/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="29" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webapp/frontend/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webapp/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="4" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <folding>
+            <element signature="e#0#23#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/sass-bootstrap/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="668">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/sass-bootstrap/.bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="20" selection-start="146" selection-end="146" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webapp/frontend/static/sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="9" selection-start="375" selection-end="375" vertical-scroll-proportion="-4.0" vertical-offset="102" max-vertical-offset="1496">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="9" selection-start="84" selection-end="84" vertical-scroll-proportion="0.14237855" vertical-offset="0" max-vertical-offset="597">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webapp/static/js/assets/controllers/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="7" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webapp/static/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="8" selection-start="165" selection-end="165" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webapp/static/js/assets/angular-route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="17" selection-start="563" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="15759">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webapp/frontend/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="26" selection-start="909" selection-end="909" vertical-scroll-proportion="-8.5" vertical-offset="204" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/angular-bootstrap/ui-bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="88" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="58344">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webapp/static/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="28784" selection-start="188984" selection-end="188993" vertical-scroll-proportion="0.13513513" vertical-offset="0" max-vertical-offset="629">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="14" selection-start="1118" selection-end="1118" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webapp/templates/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="14" selection-start="439" selection-end="439" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webapp/static/js/assets/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="245" selection-end="245" vertical-scroll-proportion="0.22835821" vertical-offset="0" max-vertical-offset="670">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
