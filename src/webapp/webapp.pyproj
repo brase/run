@@ -38,6 +38,8 @@
     <Content Include="static\js\assets\bootstrap.js" />
     <Content Include="static\js\assets\controllers\main.js" />
     <Content Include="static\js\assets\jquery.js" />
+    <Content Include="static\js\assets\markdown.js" />
+    <Content Include="static\js\assets\showdown.js" />
     <Content Include="static\sass\bootstrap\bootstrap.scss" />
     <Content Include="static\sass\bootstrap\_alerts.scss" />
     <Content Include="static\sass\bootstrap\_badges.scss" />

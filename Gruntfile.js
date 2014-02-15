@@ -11,7 +11,7 @@ module.exports = function(grunt) {
                   },{
                       expand: true,
                       cwd: 'bower_components',
-                      src: ['sass-bootstrap/dist/js/bootstrap.js', 'jquery/jquery.js', 'angular/angular.js', 'angular-resource/angular-resource.js', 'angular-route/angular-route.js'],
+                      src: ['sass-bootstrap/dist/js/bootstrap.js', 'jquery/jquery.js', 'angular/angular.js', 'angular-resource/angular-resource.js', 'angular-route/angular-route.js', 'angular-markdown-directive/*.js', 'showdown/src/showdown.js'],
                       dest: 'src/webapp/static/js/assets/',
                       flatten: true
                   },{
@@ -28,7 +28,7 @@ module.exports = function(grunt) {
                 mangle: false
             },
             build:{
-                src: ['src/webapp/static/js/assets/**.js'],
+                src: ['src/webapp/static/js/assets/jquery.js','src/webapp/static/js/assets/angular.js','src/webapp/static/js/assets/*.js', 'src/webapp/static/js/assets/controllers/*.js'],
                 dest: 'src/webapp/static/js/app.js'
             }
         },
