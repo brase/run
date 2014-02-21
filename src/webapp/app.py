@@ -1,6 +1,7 @@
 from flask import Flask
 from flask.ext.admin import Admin, BaseView, expose
 from frontend import frontend
+from database import db_session
 
 class MyView(BaseView):
     @expose('/')
@@ -12,6 +13,10 @@ app.register_blueprint(frontend)
 
 admin = Admin(app)
 admin.add_view(MyView(name='Hello'))
+
+@app.teardown_appcontext
+def shutdown_session(exception=None):
+    db_session.remove()
 
 if(__name__ == "__main__"):
    app.run(debug=True)

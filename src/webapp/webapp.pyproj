@@ -18,8 +18,10 @@
   <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
   <ItemGroup>
     <Compile Include="app.py" />
+    <Compile Include="database.py" />
     <Compile Include="frontend\views.py" />
     <Compile Include="frontend\__init__.py" />
+    <Compile Include="models.py" />
     <Content Include="frontend\static\sass\main.scss" />
     <Content Include="frontend\templates\home.html" />
     <Content Include="frontend\templates\layout.html" />
