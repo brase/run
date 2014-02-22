@@ -4,3 +4,6 @@ __pycache__
 */css
 src/webapp/frontend/static/css/
 run/.ptvs
+*.pyc
+src/tmp/*
+**/*.pyc
