@@ -1,7 +1,7 @@
 from flask import Flask
 from flask.ext.admin import Admin, BaseView, expose
 from frontend import frontend
-from database import db_session
+
 
 class MyView(BaseView):
     @expose('/')
