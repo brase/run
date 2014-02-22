@@ -24,7 +24,8 @@
     <Compile Include="config.py" />
     <Compile Include="webapp\forms.py" />
     <Compile Include="webapp\models.py" />
-    <Compile Include="webapp\views.py" />
+    <Compile Include="webapp\views\account.py" />
+    <Compile Include="webapp\views\__init__.py" />
     <Compile Include="webapp\__init__.py" />
     <Compile Include="webapp\frontend\views.py" />
     <Compile Include="webapp\frontend\__init__.py" />
@@ -100,6 +101,7 @@
     <Folder Include="webapp\frontend\static\" />
     <Folder Include="webapp\frontend\static\css" />
     <Folder Include="webapp\frontend\templates" />
+    <Folder Include="webapp\views\" />
     <Folder Include="webapp\static\" />
     <Folder Include="webapp\static\css" />
     <Folder Include="webapp\static\fonts" />
