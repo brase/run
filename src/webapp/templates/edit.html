@@ -1,4 +1,4 @@
-{% extends '../layout.html' %}
+{% extends 'layout.html' %}
 {% block body %}
 <div ng-app="admin">
     <div></div>
@@ -15,5 +15,5 @@
 {% endblock %}
 {% block tail %}
     {{ super() }}
-<script src="{{ url_for('static', filename='js/app.js') }}" language="javascript"></script>
+<!--<script src="{{ url_for('static', filename='js/app.js') }}" language="javascript"></script>-->
 {% endblock %}
