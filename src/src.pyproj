@@ -33,6 +33,7 @@
     <Content Include="migrations\alembic.ini" />
     <Content Include="migrations\README" />
     <Content Include="migrations\script.py.mako" />
+    <Content Include="webapp\static\pictures\weppage_logo.png" />
     <Content Include="webapp\templates\index.html" />
     <Content Include="webapp\templates\layout.html" />
     <Content Include="webapp\frontend\static\css\main.css" />
@@ -102,6 +103,7 @@
     <Folder Include="webapp\frontend\static\" />
     <Folder Include="webapp\frontend\static\css" />
     <Folder Include="webapp\frontend\templates" />
+    <Folder Include="webapp\static\pictures\" />
     <Folder Include="webapp\views\" />
     <Folder Include="webapp\static\" />
     <Folder Include="webapp\static\css" />
