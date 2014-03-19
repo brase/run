@@ -34,6 +34,8 @@
     <Content Include="migrations\README" />
     <Content Include="migrations\script.py.mako" />
     <Content Include="webapp\static\pictures\weppage_logo.png" />
+    <Content Include="webapp\static\pictures\weppage_logo_tran.gif" />
+    <Content Include="webapp\templates\ausschreibung.html" />
     <Content Include="webapp\templates\index.html" />
     <Content Include="webapp\templates\layout.html" />
     <Content Include="webapp\frontend\static\css\main.css" />
