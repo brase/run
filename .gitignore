@@ -7,3 +7,6 @@ run/.ptvs
 *.pyc
 src/tmp/*
 **/*.pyc
+
+run/**
+src/run27/**
